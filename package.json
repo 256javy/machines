@@ -1,0 +1,1 @@
+{"name":"machines","private":true,"type":"module","scripts":{"build":"node build.mjs","test":"node --test model.test.mjs","start":"python3 -m http.server 8000"}}
